@@ -1,5 +1,4 @@
 # jogo
-<!DOCTYPE html>
 <html>
 <head>
     <title>Jogo da cobrinha</title>
