@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Jogo da cobrinha</title>
+    <script data-ad-client="ca-pub-3297512096673873" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </head>
 <body>
 
